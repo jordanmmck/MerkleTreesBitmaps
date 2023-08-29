@@ -1,5 +1,5 @@
 # Merkle Trees & BitMaps
 
-Sample code for video on merkle trees and bitmaps
+Solidity code for video on merkle trees and bitmaps. Implements a simple airdrop for an ERC20.
 
-https://github.com/OpenZeppelin/merkle-tree
+[open zeppelin merkle tree](https://github.com/OpenZeppelin/merkle-tree)
